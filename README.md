@@ -9,3 +9,7 @@ Awesome list about [Viro](https://github.com/virocommunity/viro).
 ## Articles
 
 - [Creating your first React Native AR/VR project in 2020 with the renovated ViroReact](https://geovi.medium.com/creating-your-first-react-native-ar-vr-project-in-2020-with-the-renovated-viroreact-d62fa43b797b)
+
+## Videos
+
+- [React Native VR + AR Made Simple - Nader Dabit - 2018](https://www.youtube.com/watch?v=csgMNguUjDU)

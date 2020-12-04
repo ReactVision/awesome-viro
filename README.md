@@ -13,3 +13,4 @@ Awesome list about [Viro](https://github.com/virocommunity/viro).
 ## Videos
 
 - [React Native VR + AR Made Simple - Nader Dabit - 2018](https://www.youtube.com/watch?v=csgMNguUjDU)
+- [Alex Hinson - Rapid Cross-Platform AR Development with React Native - jsday 2019](https://www.youtube.com/watch?v=g0EGEnL9f4Q)

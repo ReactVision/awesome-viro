@@ -14,7 +14,7 @@ Awesome list about [Viro](https://github.com/virocommunity/viro).
 
 - [starter-kit](https://github.com/ViroCommunity/starter-kit) - React Native project setup with Viro
 - [figment-ar](https://github.com/ViroCommunity/figment-ar) - Viro Media's Figment AR App
-- [GeoAR-Testbed](https://github.com/ViroCommunity/GeoAR-Testbed) - using Google Maps Places API and placing them around the user in a 3D space
+- [GeoAR Demo](https://github.com/ViroCommunity/geoar) - using Google Maps Places API and placing them around the user in a 3D space
 
 ## Articles
 
